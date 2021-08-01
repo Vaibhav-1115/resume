@@ -1,0 +1,78 @@
+{
+    "basics": {
+        "name": "Vaibhav Kumar",
+        "label": "Student",
+	"picture": "https://avatars.githubusercontent.com/u/88286568?s=400&v=4",
+        "email": "2020kucp1115@iiitkota.ac.in",
+        "phone": "+917905444049",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "Nai Basti Mukhiya Nagar Naini",
+            "postalCode": "211008",
+            "city": "Prayagraj",
+            "countryCode": " India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+                {
+                "network": "Github",
+                "username": "Vaibhav-1115",
+                "url": "https://www.github.com/Vaibhav-1115"
+            },
+            {
+                "network": "linkedin",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Instagram",
+                "username": "",
+                "url": ""
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Drawing",
+            "keywords": [
+                "Drawing"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Cricket",
+                "F1 mobile racing",
+		"Cricket",
+		"Football"
+            ]
+        }
+    ],
+    "references": []
+}
